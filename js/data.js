@@ -13,8 +13,7 @@ const account = [
     { month: 12, expense: 200 }
 ];
 
-const moths = [
+const months = [
     'Sausis','Vasaris','Kovas','Balandis', 'Geguze', 'Birzelis', 'Liepa', 'Rugpjutis', 'Rugsejis', 'Spalis', 'Lapkritis','Gruodis'
 ];
 
-export {account};
